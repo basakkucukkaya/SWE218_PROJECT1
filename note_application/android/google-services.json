@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805811153296",
+    "project_id": "flutterfirenotes-50c1a",
+    "storage_bucket": "flutterfirenotes-50c1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805811153296:android:04748219d21fd9e99d6b15",
+        "android_client_info": {
+          "package_name": "com.example.note_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805811153296-13ag5ds1u5g23lqlntpmeovk7m8efkj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEBTMmVKZJzDuiig7YBo3V0lYuP_PAll0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805811153296-13ag5ds1u5g23lqlntpmeovk7m8efkj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
